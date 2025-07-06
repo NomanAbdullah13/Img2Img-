@@ -1,1 +1,1 @@
-https://charming-marzipan-46b6aa.netlify.app
+User provides an image and a prompt as input, and the output image is generated based on these inputs. But the most important thing is OpenAI API key is required to use this. Link: https://charming-marzipan-46b6aa.netlify.app
